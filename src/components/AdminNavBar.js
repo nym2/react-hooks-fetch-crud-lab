@@ -1,3 +1,4 @@
+//AdminNavbar.js
 import React from "react";
 
 function AdminNavBar({ onChangePage }) {
